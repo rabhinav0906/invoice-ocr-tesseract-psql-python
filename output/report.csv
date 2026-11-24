@@ -1,0 +1,5 @@
+filename,status,invoice_number,vendor,date,currency,subtotal,tax,total,reasons
+invoice-101-copy.png,valid,TNM-101,ACME OFFICE SUPPLIES,2026-10-01,INR,1200.50,216.09,1416.59,
+invoice-101.png,valid,TNM-101,Acme Office Supplies,2026-10-01,INR,1200.50,216.09,1416.59,
+invoice-102.png,valid,TNM-102,Beta Print Studio,2026-10-02,INR,1500.00,270.00,1770.00,
+invoice-103-review.png,needs_review,TNM-103,Gamma Paper Co,[not supplied],INR,1000.00,180.00,1170.00,Invalid invoice date; Subtotal + tax does not equal total
